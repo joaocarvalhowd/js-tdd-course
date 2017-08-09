@@ -1,0 +1,9 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso de JS com TDD na prática.",
+  "main": "index.js",
+  "repository": "git@github.com:joaocarvalhowd/js-tdd-course.git",
+  "author": "João Carvalho <oi@joaocarvalhowd.com.br>",
+  "license": "MIT"
+}
