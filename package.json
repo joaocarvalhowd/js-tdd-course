@@ -6,7 +6,12 @@
   "repository": "git@github.com:joaocarvalhowd/js-tdd-course.git",
   "author": "João Carvalho <oi@joaocarvalhowd.com.br>",
   "license": "MIT",
-  "dependencies": {
-    "gitignore": "^0.6.0"
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint src/*.js"
+  },
+  "devDependencies": {
+    "eslint": "^4.4.1",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0"
   }
 }
